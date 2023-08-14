@@ -32,6 +32,7 @@ android {
     buildFeatures {
         viewBinding true
     }
+    namespace 'com.gentlemadao.android_demo'
 }
 
 dependencies {
